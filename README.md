@@ -4,8 +4,6 @@
 
 技术基础：（1）自然语言处理（2）实时数据处理（3）交互式可视化
 
-<img src="/Users/iammm/Library/Application Support/typora-user-images/image-20240328151823362.png" alt="image-20240328151823362" style="zoom: 50%;" />
-
 ### 模型目标：
 
 ###### 实现一个能根据用户输入实时绘制思维导图的模型。
